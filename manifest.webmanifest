@@ -1,0 +1,13 @@
+{
+  "name": "RenoMate Australia",
+  "short_name": "RenoMate",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4f1eb",
+  "theme_color": "#244c43",
+  "description": "Renovation budgeting, quotes, selections, expenses and timeline in one place.",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
